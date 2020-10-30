@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Oncevistas</string>
+    <string name="siguiente">siguiente</string>
+    <string name="text_view1">This is a text view</string>
+    <string name="click_me">CLICK ME</string>
+    <string name="button_bellow">Bellow</string>
+    <string name="to">To</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="duck">Its a duck</string>
+    <string name="real">(not a real one)</string>
+    <string name="toggleOn">On</string>
+    <string name="toggleOff">Off</string>
+    <string name="milk">Milk</string>
+    <string name="sugar">Sugar</string>
+    <string name="lemon">Lemon</string>
+
+    <string-array name="spinner_values">
+        <item>Choose a Layout</item>
+        <item>Linear Layout</item>
+        <item>Relative layout</item>
+        <item>Frame Layout</item>
+        <item>Table Layout</item>
+        <item>Absolute Layout</item>
+        <item>Grid Layout</item>
+    </string-array>
+
+</resources>
